@@ -1,5 +1,8 @@
 # 🛒 Product App
 
+Project Video Link:
+https://drive.google.com/file/d/11BAl7rc9bKvy-48lUCGu5hgeTciEmORX/view?usp=sharing
+
 ## 1. Project Setup
 
 nvm install 22 (installed Node version - v22.21.1)  
