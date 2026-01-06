@@ -49,9 +49,20 @@ npm run dev (runs on http://localhost:5173/)
 
 ## 6. How Deployment Was Done
 
+The application was deployed using **Netlify**.
+
+There are two ways to deploy a project on Netlify:
+- You can log in to Netlify and deploy the project manually, or  
+- You can push your code to **GitHub** and connect your repository to Netlify for automatic deployment.
+
+This project was deployed by connecting the GitHub repository to Netlify.
+
+**Live Deployed App:**  
+https://padmini598-product-app.netlify.app/
+
 ---
 
 ## 7. Any Assumptions or Trade-offs Made
 
-As I have seen the product json, only few records are present which does't require pagination and  
-less API Calls but budern to
+As I have seen the product json, only few records are present which does't require pagination, so due which it reduces the network api calls, but other capabalities like searching,
+filtering computation is done form UI side, which might create some UI delay as the products increases..
